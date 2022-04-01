@@ -14,4 +14,4 @@
 
 [<img width="25" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin](https://www.linkedin.com/in/sali-taymour/)
 
-[<img width="25" src="https://unpkg.com/simple-icons@v4/icons/xing.svg" align="left" />][xing]
+[<img width="25" src="https://unpkg.com/simple-icons@v4/icons/xing.svg" align="left" />][xing](https://www.xing.com/profile/Sali_Taymourkha/cv)
